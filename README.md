@@ -1,5 +1,12 @@
 # 🏦 Loan Approval Prediction Analysis
 
+### End-to-End Data Analytics & Machine Learning Project
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+
 ## 📌 Project Overview
 
 This project focuses on analyzing loan application data to identify the key factors influencing loan approvals and predicting whether a loan application is likely to be approved. The project combines SQL, Python, Machine Learning, and Power BI to perform end-to-end data analysis, predictive modeling, and interactive dashboard development.
@@ -109,36 +116,42 @@ Model Used:
 
 The project includes an interactive multi-page dashboard covering:
 
-### Overview Dashboard
+### Overview
+![Overview](images/overview.png)
 - Total Applications
 - Total Approved Loans
 - Approval Rate
 - Average Loan Amount
 - Income Analysis
 
-### Applicant Demographics
+### Demographics
+![Demographics](images/demographics.png)
 - Gender Analysis
 - Education Analysis
 - Marital Status
 - Self Employment
 
-### Financial Insights
+### Financial
+![Financial](images/financial.png)
 - Income Distribution
 - Loan Amount Analysis
 - Income Groups
 - Financial Summary
 
-### Property Analysis
+### Property
+![Property](images/property.png)
 - Property Area Distribution
 - Approval Status by Location
 - Average Loan Amount by Area
 
-### Credit Risk Analysis
+### Credit Risk
+![Credit](images/credit.png)
 - Credit History Distribution
 - Approval Rate by Credit Score
 - Credit Risk Summary
 
 ### Advanced Insights
+![Insights](images/insights.png)
 - Target Customer Segments
 - Approval Trends
 - Income Group Analysis
